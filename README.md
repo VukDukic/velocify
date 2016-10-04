@@ -5,7 +5,7 @@
 [![Test Coverage](https://codeclimate.com/github/pennymac/velocify/badges/coverage.svg)](https://codeclimate.com/github/pennymac/velocify/coverage)
 
 ## Velocify Pulse
-[![Velocify Pulse](http://lmhelp.velocify.com/hc/en-us/sections/200304510-Velocify-for-Salesforce-General-Information-Summer-14-Fall-14-Winter-15-)
+[Velocify Pulse](http://lmhelp.velocify.com/hc/en-us/sections/200304510-Velocify-for-Salesforce-General-Information-Summer-14-Fall-14-Winter-15-)
 
 
 ## Installation
